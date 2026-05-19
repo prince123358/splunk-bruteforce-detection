@@ -1,0 +1,3 @@
+index="demo_log" sourcetype="csv" EventCode="4625"
+| stats count by SourceIP
+| where count >6

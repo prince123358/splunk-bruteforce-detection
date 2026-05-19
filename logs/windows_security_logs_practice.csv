@@ -1,0 +1,72 @@
+TimeGenerated,EventCode,EventType,AccountName,SourceIP,LogonType,Message
+2026-05-19 10:00:00,4624,Successful Login,Administrator,10.0.0.5,3,An account was successfully logged on.
+2026-05-19 10:01:00,4624,Successful Login,john,10.0.0.5,3,An account was successfully logged on.
+2026-05-19 10:02:00,4624,Successful Login,admin,10.0.0.5,3,An account was successfully logged on.
+2026-05-19 10:03:00,4624,Successful Login,Administrator,10.0.0.5,3,An account was successfully logged on.
+2026-05-19 10:04:00,4624,Successful Login,guest,172.16.1.20,3,An account was successfully logged on.
+2026-05-19 10:05:00,4624,Successful Login,Administrator,10.0.0.5,3,An account was successfully logged on.
+2026-05-19 10:06:00,4624,Successful Login,Administrator,10.0.0.5,3,An account was successfully logged on.
+2026-05-19 10:07:00,4624,Successful Login,admin,10.0.0.5,3,An account was successfully logged on.
+2026-05-19 10:08:00,4624,Successful Login,guest,10.0.0.5,3,An account was successfully logged on.
+2026-05-19 10:09:00,4624,Successful Login,guest,172.16.1.20,3,An account was successfully logged on.
+2026-05-19 10:10:00,4624,Successful Login,admin,172.16.1.20,3,An account was successfully logged on.
+2026-05-19 10:11:00,4624,Successful Login,guest,172.16.1.20,3,An account was successfully logged on.
+2026-05-19 10:12:00,4624,Successful Login,Administrator,10.0.0.5,3,An account was successfully logged on.
+2026-05-19 10:13:00,4624,Successful Login,test,172.16.1.20,3,An account was successfully logged on.
+2026-05-19 10:14:00,4624,Successful Login,john,10.0.0.5,3,An account was successfully logged on.
+2026-05-19 10:15:00,4624,Successful Login,admin,172.16.1.20,3,An account was successfully logged on.
+2026-05-19 10:16:00,4624,Successful Login,Administrator,10.0.0.5,3,An account was successfully logged on.
+2026-05-19 10:17:00,4624,Successful Login,test,10.0.0.5,3,An account was successfully logged on.
+2026-05-19 10:18:00,4624,Successful Login,john,172.16.1.20,3,An account was successfully logged on.
+2026-05-19 10:19:00,4624,Successful Login,guest,172.16.1.20,3,An account was successfully logged on.
+2026-05-19 10:20:00,4624,Successful Login,Administrator,172.16.1.20,3,An account was successfully logged on.
+2026-05-19 10:21:00,4624,Successful Login,guest,10.0.0.5,3,An account was successfully logged on.
+2026-05-19 10:22:00,4624,Successful Login,test,10.0.0.5,3,An account was successfully logged on.
+2026-05-19 10:23:00,4624,Successful Login,guest,172.16.1.20,3,An account was successfully logged on.
+2026-05-19 10:24:00,4624,Successful Login,guest,172.16.1.20,3,An account was successfully logged on.
+2026-05-19 10:25:00,4624,Successful Login,guest,10.0.0.5,3,An account was successfully logged on.
+2026-05-19 10:26:00,4624,Successful Login,Administrator,10.0.0.5,3,An account was successfully logged on.
+2026-05-19 10:27:00,4624,Successful Login,admin,172.16.1.20,3,An account was successfully logged on.
+2026-05-19 10:28:00,4624,Successful Login,Administrator,10.0.0.5,3,An account was successfully logged on.
+2026-05-19 10:29:00,4624,Successful Login,Administrator,172.16.1.20,3,An account was successfully logged on.
+2026-05-19 10:30:00,4624,Successful Login,john,172.16.1.20,3,An account was successfully logged on.
+2026-05-19 10:31:00,4624,Successful Login,john,10.0.0.5,3,An account was successfully logged on.
+2026-05-19 10:32:00,4624,Successful Login,john,172.16.1.20,3,An account was successfully logged on.
+2026-05-19 10:33:00,4624,Successful Login,admin,172.16.1.20,3,An account was successfully logged on.
+2026-05-19 10:34:00,4624,Successful Login,Administrator,10.0.0.5,3,An account was successfully logged on.
+2026-05-19 10:35:00,4624,Successful Login,guest,10.0.0.5,3,An account was successfully logged on.
+2026-05-19 10:36:00,4624,Successful Login,admin,172.16.1.20,3,An account was successfully logged on.
+2026-05-19 10:37:00,4624,Successful Login,test,172.16.1.20,3,An account was successfully logged on.
+2026-05-19 10:38:00,4624,Successful Login,guest,10.0.0.5,3,An account was successfully logged on.
+2026-05-19 10:39:00,4624,Successful Login,john,10.0.0.5,3,An account was successfully logged on.
+2026-05-19 10:50:00,4625,Failed Login,admin,45.22.11.90,3,An account failed to log on.
+2026-05-19 10:50:08,4625,Failed Login,Administrator,45.22.11.90,3,An account failed to log on.
+2026-05-19 10:50:16,4625,Failed Login,john,45.22.11.90,3,An account failed to log on.
+2026-05-19 10:50:24,4625,Failed Login,test,45.22.11.90,3,An account failed to log on.
+2026-05-19 10:50:32,4625,Failed Login,john,45.22.11.90,3,An account failed to log on.
+2026-05-19 10:50:40,4625,Failed Login,Administrator,45.22.11.90,3,An account failed to log on.
+2026-05-19 10:50:48,4625,Failed Login,admin,45.22.11.90,3,An account failed to log on.
+2026-05-19 10:50:56,4625,Failed Login,guest,45.22.11.90,3,An account failed to log on.
+2026-05-19 10:51:04,4625,Failed Login,john,45.22.11.90,3,An account failed to log on.
+2026-05-19 10:51:12,4625,Failed Login,admin,45.22.11.90,3,An account failed to log on.
+2026-05-19 10:51:20,4625,Failed Login,test,45.22.11.90,3,An account failed to log on.
+2026-05-19 10:51:28,4625,Failed Login,test,45.22.11.90,3,An account failed to log on.
+2026-05-19 10:51:36,4625,Failed Login,test,45.22.11.90,3,An account failed to log on.
+2026-05-19 10:51:44,4625,Failed Login,admin,45.22.11.90,3,An account failed to log on.
+2026-05-19 10:51:52,4625,Failed Login,john,45.22.11.90,3,An account failed to log on.
+2026-05-19 10:52:00,4625,Failed Login,admin,45.22.11.90,3,An account failed to log on.
+2026-05-19 10:52:08,4625,Failed Login,admin,45.22.11.90,3,An account failed to log on.
+2026-05-19 10:52:16,4625,Failed Login,guest,45.22.11.90,3,An account failed to log on.
+2026-05-19 10:52:24,4625,Failed Login,guest,45.22.11.90,3,An account failed to log on.
+2026-05-19 10:52:32,4625,Failed Login,john,45.22.11.90,3,An account failed to log on.
+2026-05-19 10:52:40,4625,Failed Login,guest,45.22.11.90,3,An account failed to log on.
+2026-05-19 10:52:48,4625,Failed Login,test,45.22.11.90,3,An account failed to log on.
+2026-05-19 10:52:56,4625,Failed Login,guest,45.22.11.90,3,An account failed to log on.
+2026-05-19 10:53:04,4625,Failed Login,test,45.22.11.90,3,An account failed to log on.
+2026-05-19 10:53:12,4625,Failed Login,john,45.22.11.90,3,An account failed to log on.
+2026-05-19 10:55:00,4624,Successful Login,Administrator,45.22.11.90,3,An account was successfully logged on after multiple failures.
+2026-05-19 11:10:00,4672,Special Privileges Assigned,Administrator,192.168.1.10,2,Special privileges assigned to new logon.
+2026-05-19 11:11:00,4672,Special Privileges Assigned,Administrator,192.168.1.10,2,Special privileges assigned to new logon.
+2026-05-19 11:12:00,4672,Special Privileges Assigned,Administrator,103.55.77.2,2,Special privileges assigned to new logon.
+2026-05-19 11:13:00,4672,Special Privileges Assigned,Administrator,45.22.11.90,2,Special privileges assigned to new logon.
+2026-05-19 11:14:00,4672,Special Privileges Assigned,Administrator,192.168.1.10,2,Special privileges assigned to new logon.
