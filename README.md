@@ -10,7 +10,7 @@ This dashboard visualizes failed login attempts detected from Windows Security L
 - Real-time brute-force monitoring
 - SOC investigation support
 
-![Brute Force Detection](screenshots/bruteforce_detection_dashboard.png)
+![Brute Force Detection](screenshots/Screenshot 2026-05-19 131449.png)
 
 ---
 
